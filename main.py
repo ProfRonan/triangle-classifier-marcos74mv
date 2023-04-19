@@ -12,3 +12,4 @@ elif lado1 == lado2 != lado3 or lado1 != lado2 == lado3 or lado1 == lado3 != lad
     print("Isósceles")
 else:
     print("Escaleno")
+    
